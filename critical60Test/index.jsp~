@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>hello it is index page !</h1>
+        <h1>hello it is index page h..... !</h1>
     </body>
 </html>
